@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box !important;
+  }
+  
+  #main {
+    min-height: 100vh !important;
+    overflow-y: hidden !important;
+  }
+  
+  #signup:hover, #loginbtn:hover {
+    cursor: pointer;
+    color: green !important;
+  }
+  
+  /*# sourceMappingURL=style.css.map */
